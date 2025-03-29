@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891463405118",
+    "project_id": "chatapp-c374d",
+    "storage_bucket": "chatapp-c374d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891463405118:android:d558c7ae08a844d5eb4b6f",
+        "android_client_info": {
+          "package_name": "com.pandaways.chatz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891463405118-vulv732i8t0o31q2folmhpt1limgffbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8KHNx_e4YYDvHIXWy38TMFKjt27oXL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891463405118-vulv732i8t0o31q2folmhpt1limgffbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
